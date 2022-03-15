@@ -1,3 +1,3 @@
 # FireWork
-FireWork Canvas
+FireWork Canvas,
 Firework animation
